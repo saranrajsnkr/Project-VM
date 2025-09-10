@@ -1,5 +1,4 @@
-# 25) README.md (setup + run instructions)
-
+Project VM
 
 ```
 # AI Learning Platform — Django Starter
